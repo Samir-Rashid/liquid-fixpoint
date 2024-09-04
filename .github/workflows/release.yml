@@ -1,4 +1,4 @@
-name: stack
+name: release
 
 on:
   push:
